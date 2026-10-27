@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 Me and Claude Code are currently working on 
-1. combining different LLMs to enhance prompt answers (SB + Spring AI)
+1. a service finding out ROI for a given configuration of a solar cell/battery installation for the Swedish market (SB + react + vite)
 2. a healthcare fund portal connected to Avanza (SB + react + vite) 
-3. a service finding out ROI for a given configuration of a solar cell/battery installation for the Swedish market (SB + react + vite)
+3. combining different LLMs to enhance prompt answers (SB + Spring AI)
 - 📫 How to reach me: mans.engstedt@gmail.com
 
